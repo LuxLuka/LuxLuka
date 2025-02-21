@@ -1,6 +1,3 @@
-- 👋 Hi, I’m @LuxLuka
-- 👀 I’m interested in ... / game development
-- 🌱 I’m currently learning ... / react.js
-- 💞️ I'm LUA pro developer
-- 💻 WebSite builder
-- 📫 How to reach me ... on discord / LuxLuka#2317
+Building tech companies for living
+Doing projects 
+Biggest company crivido.pro
